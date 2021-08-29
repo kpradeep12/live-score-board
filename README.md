@@ -6,9 +6,7 @@ Track team score by displaying live score on the screen (Smart TV, Computer, Pho
 
 This project is built based on Spring and ReactJS.
 
-See this video for demo.
-
-[![Live score board]()](https://thetechstack.net/assets/images/projects/live-score-board/20210829_175848_1.mp4)
+See this video for demo. [![Live score board]()](https://thetechstack.net/assets/images/projects/live-score-board/20210829_175848_1.mp4)
 
 ### Build and Run this project?
 
