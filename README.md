@@ -1,28 +1,15 @@
-# ReactJS and Spring Boot Maven Demo Project
+# Live Score Board
 
-Use this project to quickly create a ReactJS and Sprint boot application. Single project contains backend and frontend folders.
+Track your team score by displaying live score on any screen (Smart TV, Computer, Phone, Tablet). Screen gets divided into two sections for two teams (red, blue).
 
-This project is pre-configured with below libraries
+This project is built based on Spring and ReactJS.
 
-- Spring:
-  - DevTools
-  - Lombok
+### Build and Run this project?
 
-- ReactJS:
-  - Formik
-  - Material UI
-  - React router
-
-### How to reuse this project?
+Prerequisites: Java 11 and Maven
 
 * Clone this repo.
-* Rename project folder name to what ever the new project you want.
-* Edit pom.xml by providing proper project name in \<artifactId> and \<name>
-
-### Contents of this project
-- **pom.xml**: Maven POM file
-- **src**: Java/Spring boot source folder (back-end)
-- **ui**: ReactJS files (front-end)
+* From terminal execute '.\mvnw clean install' to install in local maven repo.
 
 ### Compile and Run project
 
