@@ -2,7 +2,7 @@
 
 Track team score by displaying live score on the screen (Smart TV, Computer, Phone, Tablet) using browser. This application will track score of two teams (red, blue). Feed the score to app using Flic buttons
 
-![Live Score Board](https://thetechstack.net/assets/images/projects/live-score-board/live-score-board.jpg =959x496)
+![Live Score Board](https://thetechstack.net/assets/images/projects/live-score-board/live-score-board.jpg){: width="75%" height="75%"}
 
 This application is developed using Spring Boot and ReactJS.
 
