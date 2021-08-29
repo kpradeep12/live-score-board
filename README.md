@@ -1,10 +1,14 @@
 # Live Score Board
 
-Track your team score by displaying live score on any screen (Smart TV, Computer, Phone, Tablet). Screen gets divided into two sections for two teams (red, blue).
+Track team score by displaying live score on the screen (Smart TV, Computer, Phone, Tablet) using browser. This application will track score of two teams (red, blue).
 
 ![Live Score Board](https://thetechstack.net/assets/images/projects/live-score-board/live-score-board.jpg)
 
 This project is built based on Spring and ReactJS.
+
+See this video for demo.
+
+[![Live score board]()](https://thetechstack.net/assets/images/projects/live-score-board/20210829_175848_1.mp4)
 
 ### Build and Run this project?
 
