@@ -8,6 +8,10 @@ This project is built based on Spring and ReactJS.
 
 See this video for demo. [![Live score board]()](https://thetechstack.net/assets/images/projects/live-score-board/20210829_175848_1.mp4)
 
+See below image to understand how this works;
+
+![Live Score Board Flow](https://thetechstack.net/assets/images/projects/live-score-board/live-score-board-flow.jpg)
+
 ### Build and Run this project?
 
 Prerequisites: Java 11 
