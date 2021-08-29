@@ -6,10 +6,10 @@ This project is built based on Spring and ReactJS.
 
 ### Build and Run this project?
 
-Prerequisites: Java 11 and Maven
+Prerequisites: Java 11 
 
-* Clone this repo.
-* From terminal execute '.\mvnw clean install' to install in local maven repo.
+* Download latest .jar from releases.
+* From terminal execute 'java -jar live-score-board-<version>.jar' to run the application.
 
-Access application at http://localhost:3000
+Access application at http://localhost:8080
 
